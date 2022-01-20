@@ -1,7 +1,5 @@
 package br.com.javacodex.cap3;
 
-import java.util.Scanner;
-
 import javax.swing.JOptionPane;
 
 public class DateTest {

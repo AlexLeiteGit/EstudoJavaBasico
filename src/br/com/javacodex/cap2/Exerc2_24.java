@@ -43,6 +43,8 @@ public class Exerc2_24 {
 		} if(e>a && e>b && e>c && e>d) {
 			System.out.println("Maior Valor é E: " + e);
 		}
+		
+		input.close();
 
 	}
 

@@ -51,6 +51,7 @@ public class EmployeeTest {
 		System.out.printf("%n%s %s earn $%.2f per year!%n%n", employee1.getName(), employee1.getSurname(), employee1.getSalary());
 		System.out.printf("%n%s %s earn $%.2f per year!%n%n", employee2.getName(), employee2.getSurname(), employee2.getSalary());
 
+		input.close();
 	}
 
 }

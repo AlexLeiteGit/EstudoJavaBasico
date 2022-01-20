@@ -1,7 +1,5 @@
 package br.com.javacodex.cap5;
 
-import java.awt.Shape;
-
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 

@@ -36,5 +36,7 @@ public class Exerc2_17 {
 		} if (c < a && c < b && b < a) {
 			System.out.println(c + ", " + b + ", " + a);
 		}
+		
+		input.close();
 	}
 }

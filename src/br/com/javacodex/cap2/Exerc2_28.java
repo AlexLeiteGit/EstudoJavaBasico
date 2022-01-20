@@ -18,6 +18,7 @@ public class Exerc2_28 {
 		System.out.printf("A circunferencia mede: %f%n", circunferencia);
 		System.out.printf("A área da cicunferencia é: %f%n", area);
 
+		input.close();
 	}
 
 }
