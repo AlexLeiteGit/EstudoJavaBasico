@@ -18,8 +18,6 @@ public class Exerc2_25 {
 		} else {
 			System.out.println("O número é IMPAR");
 		}
-		
-		input.close();
 
 	}
 

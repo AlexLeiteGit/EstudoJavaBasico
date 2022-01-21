@@ -1,5 +1,7 @@
 package br.com.javacodex.cap7;
 
+import java.util.Arrays;
+
 public class Exerc7_09 {
 
 	public static void main(String[] args) {

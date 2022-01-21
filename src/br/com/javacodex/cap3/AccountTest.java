@@ -48,8 +48,6 @@ public class AccountTest {
 		
 		displayAccount(account1);
 		displayAccount(account2);
-		
-		input.close();
 
 	}
 	

@@ -18,7 +18,7 @@ public class Exerc2_30 {
 		System.out.printf( "%d %s", ( numero / 10 ) % 10 , " " );
 		System.out.printf( "%d %s" ,  (numero / 1 ) % 10 , " ");
 		
-		input.close();
+		
 	}
 
 }

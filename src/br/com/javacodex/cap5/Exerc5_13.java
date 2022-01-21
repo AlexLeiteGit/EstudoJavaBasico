@@ -1,5 +1,7 @@
 package br.com.javacodex.cap5;
 
+import java.util.Scanner;
+
 public class Exerc5_13 {
 
 	public static void main(String[] args) {

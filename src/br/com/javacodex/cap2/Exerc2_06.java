@@ -27,7 +27,6 @@ public class Exerc2_06 {
 		System.out.printf("%s%d%n", "Product is ", result);
 		System.out.printf("Product is %d%n", result);
 
-		input.close();
 	}
 
 }

@@ -76,7 +76,6 @@ public class Exerc5_11 {
 		
 		System.out.printf("%n%nO menor valor é %d%n%n", menorFinal);
 		
-		input.close();
 	}
 
 }

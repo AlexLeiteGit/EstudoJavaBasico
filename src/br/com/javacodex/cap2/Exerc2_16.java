@@ -24,7 +24,6 @@ public class Exerc2_16 {
 			System.out.println("These numbers are equal");
 		}
 
-		input.close();
 	}
 
 }

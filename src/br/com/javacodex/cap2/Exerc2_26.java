@@ -21,7 +21,6 @@ public class Exerc2_26 {
 			System.out.printf("A não é multiplo de B %n");
 		}
 
-		input.close();
 
 	}
 
